@@ -13,6 +13,7 @@ public class Condition {
 
             } else {
                 System.out.println("Play Next song");
+                System.out.println("Test Git");
                 repeatCondition = false;
             }
         }
